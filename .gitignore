@@ -1,0 +1,43 @@
+# IDE
+**/.idea
+**/.vscode
+
+# NPM
+**/node_modules
+
+# YARN
+**/.pnp.*
+**/.yarn/*
+!**/.yarn/sdks
+!**/.yarn/patches
+!**/.yarn/plugins
+!**/.yarn/releases
+!**/.yarn/versions
+
+# Python
+**/bin
+**/etc
+**/lib
+**/man
+**/lib64
+**/share
+**/include
+**/__pycache__
+**/pyvenv.cfg
+**/pip-selfcheck.json
+
+# Build
+**/.turbo
+**/dist
+**/build
+**/target
+**/*.egg-info
+
+# Regular
+**/*.env
+**/*.ini
+**/*.key
+**/*.log
+**/*.pid
+**/*.py[cod]
+**/.DS_Store
