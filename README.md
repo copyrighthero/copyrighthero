@@ -1,3 +1,5 @@
+
+
 # 👋 Hello, World!
 
 <!-- Badges: sheilds.io; Icons: devicon.dev -->
@@ -25,7 +27,7 @@
 
 - 💬 Native speaker of _Mandarin Chinese_, articulate well in _English_.
 - 🗺️ Currently residing in _Austin, TX_; on an _H1-B visa_ valid until 2026 with _I-140 approved_.
-- 📰 Experienced software engineering manager and full stack engineer with expertise in industrial-proven technologies.
+- 📰 Experienced software engineering manager and full stack engineer with expertise in industrial-proven technologies.
 - ⌨️ Fluent in _Python, JavaScript, TypeScript, and SQL_; can occasionally converse in _PHP, Bash, and C_.
 
 ## 💾 Technology Proficiency
@@ -123,7 +125,7 @@
     <li><b>🖥️ Debian+Nginx</b>: I maintain a cluster of 22 VPSes and bare-metal machines worldwide.</li>
     <li><b>🪣 Git+S3+CDN</b>: I created a software distribution system with <i>Git</i>, <i>S3 buckets</i>, and <i>CDNs</i>.</li>
     <li><b>🔨 C+Clang+LLVM</b>: I compile a collection of commonly used software like <i>Clang+LLVM</i>, <i>Nginx</i>, <i>Python</i>, <i>PHP</i>, <i>PostgreSQL</i>, <i>SQLite</i>, <i>Redis/Valkey</i>, <i>Memcached</i>, <i>MPICH/OpenMPI</i>, ...</li>
-    <li><b>🏡 Astro+NextJS</b>: I'm learning and using Astro for my portfolio websit and have made a org-wide blog with NextJS to track common AWS dev procedues.</li>
+    <li><b>🏡 Astro+NextJS</b>: I'm learning and using Astro for my portfolio website and have made a org-wide blog with NextJS to track common AWS dev procedues.</li>
     <li><b>🪜 Spring+Laravel+Lumen+Remix</b>: I want to work on some projects with these frameworks; I love how they are so familiar yet different!</li>
     <li><b>🚜 WASM+Rust+Go+Kotlin+Lua</b>: I want to learn these programming languages; it is fascinating how they achieve the same result with diverse paradigms.</li>
     <li><b>📻 Japanese+Spanish</b>: I also would love to learn these natural languages and visit places :-) 您好! こんにちは! Hola!</li>
